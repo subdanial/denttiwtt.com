@@ -1,0 +1,9 @@
+[Sat Mar 13 08:56:20.946172 2021] [php7:error] [pid 11035] [client 5.188.62.140:52907] script '/var/www/denttwitt.com/admin.php' not found or unable to stat
+[Sat Mar 13 08:56:22.857369 2021] [php7:error] [pid 11035] [client 5.188.62.140:52907] script '/var/www/denttwitt.com/adm.php' not found or unable to stat
+[Sat Mar 13 08:56:24.122121 2021] [php7:error] [pid 11035] [client 5.188.62.140:52907] script '/var/www/denttwitt.com/login.php' not found or unable to stat
+[Sat Mar 13 08:56:30.501974 2021] [php7:error] [pid 11035] [client 5.188.62.140:52907] script '/var/www/denttwitt.com/administrator.php' not found or unable to stat
+[Sun Mar 14 17:14:06.285885 2021] [php7:error] [pid 20739] [client 54.190.157.26:46844] script '/var/www/denttwitt.com/wp-login.php' not found or unable to stat
+[Tue Mar 16 19:31:39.566881 2021] [php7:error] [pid 30954] [client 167.71.208.85:40100] script '/var/www/denttwitt.com/wp-login.php' not found or unable to stat
+[Tue Mar 16 19:31:39.645596 2021] [php7:error] [pid 31866] [client 167.71.208.85:40126] script '/var/www/denttwitt.com/wp-login.php' not found or unable to stat
+[Tue Mar 16 23:39:19.755489 2021] [php7:error] [pid 5234] [client 43.231.112.243:36708] script '/var/www/denttwitt.com/wp-login.php' not found or unable to stat
+[Tue Mar 16 23:39:19.755489 2021] [php7:error] [pid 10451] [client 43.231.112.243:36710] script '/var/www/denttwitt.com/wp-login.php' not found or unable to stat
