@@ -1,0 +1,13 @@
+@media(max-width:1000px){
+    .home{
+        background: inherit!important;
+    }
+    body > div.main-logo.text-right > div > div > a > img{
+        height: 52px!important;
+        padding-right: 12px;
+    }
+    body > section > div.container > div > div > div{
+        text-align: center!important;
+        width: 100%;
+    }
+}
